@@ -6,4 +6,4 @@ public class VierGewinnt {
 		
 	}
 
-}
+} wer das liest ist ein Blödian
